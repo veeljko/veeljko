@@ -25,6 +25,7 @@ Currently based in <b>Belgrade, Serbia</b>
 
 <p>
 <img src="https://skillicons.dev/icons?i=react,redux,tailwind" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/reactrouter/reactrouter-original.svg" height="48"/>
 </p>
 
 ---
@@ -33,6 +34,7 @@ Currently based in <b>Belgrade, Serbia</b>
 
 <p>
 <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,redis" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rabbitmq/rabbitmq-original.svg" height="48"/>
 </p>
 
 ---
