@@ -27,11 +27,6 @@ Currently based in <b>Belgrade, Serbia</b>
 <img src="https://skillicons.dev/icons?i=react,redux,tailwind" />
 </p>
 
-- React  
-- React Router  
-- Redux / Redux Toolkit  
-- Tailwind CSS  
-
 ---
 
 ### Backend
@@ -40,11 +35,6 @@ Currently based in <b>Belgrade, Serbia</b>
 <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,redis" />
 </p>
 
-- Node.js  
-- Express.js  
-- MongoDB  
-- Redis  
-
 ---
 
 ### Programming Languages
@@ -52,12 +42,6 @@ Currently based in <b>Belgrade, Serbia</b>
 <p>
 <img src="https://skillicons.dev/icons?i=c,cpp,java,js,ts" />
 </p>
-
-- C  
-- C++  
-- Java  
-- JavaScript  
-- TypeScript  
 
 ---
 
