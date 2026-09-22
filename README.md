@@ -14,7 +14,7 @@ Currently based in <b>Belgrade, Serbia</b>
 
 ## 👨‍💻 About Me
 
-- 🎓 Thirs-year **Computer Science student**
+- 🎓 Third-year **Computer Science student**
 - 🚀 Interested in **web development, low level programming, data structures and algorithms**
 
 ---
